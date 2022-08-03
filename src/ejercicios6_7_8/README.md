@@ -1,6 +1,6 @@
 # Patrones de diseño
 
-### se clasifican en tres categorias: 
+### se clasifican en tres categorías: 
 
 * #### Patrones creacionales:
     * Factory: en una interfaz crea conjuntos o familias de objetos relacionados sin especificar el nombre de la clase.
